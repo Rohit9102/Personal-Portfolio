@@ -1,12 +1,27 @@
-# React + Vite
+🚀 Introduction
+In this tutorial, you'll learn how to build a modern portfolio website using React, TailwindCSS, Vite, and Lucide Icons. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎥 Watch the full tutorial: YouTube
 
-Currently, two official plugins are available:
+⚙️ Tech Stack
+React – Component-based UI development
+Vite – Lightning-fast build tool
+TailwindCSS – Utility-first CSS for styling
+Lucide Icons – Clean and beautiful icon pack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚡️ Features
+🌑 Light/Dark Mode Toggle Save theme preference in local storage with beautiful transitions
 
-## Expanding the ESLint configuration
+💫 Animated Backgrounds Stars, meteors, scroll effects, and glowing UI elements
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Responsive Navigation Desktop and mobile menus with glassmorphism
+
+👨‍💻 Hero & About Sections Showcase who you are with smooth intro animations and buttons
+
+📊 Skills Grid Filterable progress bars and categories with animated width
+
+🖼️ Projects Showcase Display screenshots, tech stacks, and GitHub/demo links
+
+📩 Contact Section Social icons + responsive contact form with toast notifications
+
+🚀 One-Click Deployment Easily host your site with Vercel and GitHub
