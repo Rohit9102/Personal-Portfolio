@@ -18,7 +18,7 @@ const projects = [
       "A responsive personal portfolio website developed using React and Tailwind CSS, designed to showcase my skills. The site features a clean, modern UI with smooth navigation and optimized performance for a professional online presence",
     image: "/projects/project-2.png",
     tags: ["React", "Tailwind CSS"],
-    demoUrl: "https://example.com/demo1",
+    demoUrl: "https://personal-portfolio-orcin-kappa.vercel.app/",
     githubUrl: "https://github.com/Rohit9102/Personal-Portfolio",
   },
   {
