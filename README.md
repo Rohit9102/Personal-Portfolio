@@ -1,22 +1,23 @@
-🚀 Introduction
-In this tutorial, you'll learn how to build a modern portfolio website using React, TailwindCSS, Vite, and Lucide Icons. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
+🚀 Introduction -
 
-🎥 Watch the full tutorial: YouTube
+This is a modern, responsive portfolio website built with React, TailwindCSS, Vite, and Lucide Icons. It features light/dark mode toggle, animated backgrounds, responsive navigation, and dynamic sections like Skills, Projects, and Contact. 
 
-⚙️ Tech Stack
+⚙️ Tech Stack -
+
 React – Component-based UI development
 Vite – Lightning-fast build tool
 TailwindCSS – Utility-first CSS for styling
 Lucide Icons – Clean and beautiful icon pack
 
-⚡️ Features
+⚡️ Features -
+
 🌑 Light/Dark Mode Toggle Save theme preference in local storage with beautiful transitions
 
 💫 Animated Backgrounds Stars, meteors, scroll effects, and glowing UI elements
 
 📱 Responsive Navigation Desktop and mobile menus with glassmorphism
 
-👨‍💻 Hero & About Sections Showcase who you are with smooth intro animations and buttons
+👨‍💻 Hero & About Sections Showcase with smooth intro animations and buttons
 
 📊 Skills Grid Filterable progress bars and categories with animated width
 
@@ -26,6 +27,6 @@ Lucide Icons – Clean and beautiful icon pack
 
 🚀 One-Click Deployment Easily host your site with Vercel and GitHub
 
+Clone and Run -
 
-Clone and Run
-git clone 
+git clone - https://github.com/Rohit9102/Personal-Portfolio
