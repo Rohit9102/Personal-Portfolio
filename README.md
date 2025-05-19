@@ -25,3 +25,7 @@ Lucide Icons – Clean and beautiful icon pack
 📩 Contact Section Social icons + responsive contact form with toast notifications
 
 🚀 One-Click Deployment Easily host your site with Vercel and GitHub
+
+
+Clone and Run
+git clone 
